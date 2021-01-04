@@ -4,7 +4,7 @@ LKL版本
 本人使用的是这个脚本
 注意，在使用前要在VPS的控制面板把TUN/TAP功能打开做NAT表(部分OVZ没有这项功能)
 
-wget --no-check-certificate https://github.com/91yun/uml/raw/master/lkl/install.sh && bash install.sh
+wget --no-check-certificate https://github.com/nauya/uml/raw/master/lkl/install.sh && bash install.sh
 检查：
 运行top，如果有haproxy就成功了
 
